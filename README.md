@@ -1,1 +1,1 @@
-# Netflix-EDA
+# Netflix_EDA
